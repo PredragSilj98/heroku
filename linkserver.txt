@@ -1,0 +1,4 @@
+
+Eos-Rists-MacBook-Pro:Projekat1 eosrist$ heroku create
+Creating app... done, ⬢ shielded-sierra-33847
+https://shielded-sierra-33847.herokuapp.com/ | https://git.heroku.com/shielded-sierra-33847.git

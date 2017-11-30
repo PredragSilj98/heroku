@@ -1,0 +1,19 @@
+{
+  "name": "projekat",
+  "version": "1.0.0",
+  "description": "such wow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
+  "author": "Predrag Siljanoski",
+  "license": "ISC",
+  "engines": {
+    "node": "8.5.0",
+    "npm": "5.3.0"
+  }
+}
